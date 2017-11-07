@@ -114,12 +114,18 @@ section > a:active {
 
 section > img.balra{
   float: left;
-  margin: 40px;  
+  margin-left: 40px;  
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20px;
 }
 
 section > img.jobbra{
   float: right;
-  margin: 40px;  
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 40px;  
+  margin-left: 20px;
 }
 
 section > h2{
